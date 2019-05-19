@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\ShoppingDemo\DataMapping\bin\Debug\DataMapping.dll.config
+C:\Users\pc\source\repos\ShoppingDemo\DataMapping\bin\Debug\DataMapping.dll
+C:\Users\pc\source\repos\ShoppingDemo\DataMapping\bin\Debug\DataMapping.pdb
+C:\Users\pc\source\repos\ShoppingDemo\DataMapping\bin\Debug\EntityFramework.dll
+C:\Users\pc\source\repos\ShoppingDemo\DataMapping\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\source\repos\ShoppingDemo\DataMapping\bin\Debug\EntityFramework.xml
+C:\Users\pc\source\repos\ShoppingDemo\DataMapping\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\source\repos\ShoppingDemo\DataMapping\obj\Debug\DataMapping.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ShoppingDemo\DataMapping\obj\Debug\DataMapping.csproj.CopyComplete
+C:\Users\pc\source\repos\ShoppingDemo\DataMapping\obj\Debug\DataMapping.dll
+C:\Users\pc\source\repos\ShoppingDemo\DataMapping\obj\Debug\DataMapping.pdb

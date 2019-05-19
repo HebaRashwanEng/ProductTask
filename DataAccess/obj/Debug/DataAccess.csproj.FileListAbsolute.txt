@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\ShoppingDemo\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\pc\source\repos\ShoppingDemo\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\pc\source\repos\ShoppingDemo\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\pc\source\repos\ShoppingDemo\DataAccess\bin\Debug\DataMapping.dll
+C:\Users\pc\source\repos\ShoppingDemo\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\pc\source\repos\ShoppingDemo\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\source\repos\ShoppingDemo\DataAccess\bin\Debug\DataMapping.pdb
+C:\Users\pc\source\repos\ShoppingDemo\DataAccess\bin\Debug\DataMapping.dll.config
+C:\Users\pc\source\repos\ShoppingDemo\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\pc\source\repos\ShoppingDemo\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\source\repos\ShoppingDemo\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\ShoppingDemo\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ShoppingDemo\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\pc\source\repos\ShoppingDemo\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\pc\source\repos\ShoppingDemo\DataAccess\obj\Debug\DataAccess.pdb
